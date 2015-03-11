@@ -1,6 +1,7 @@
-::res://::1424406339
-car.gd::GDScript::1424406339::
+::res://::1425137605
+car.gd::GDScript::1425137605::
 icon.png::ImageTexture::1424404607::
-main.gd::GDScript::1424406339::
-main.scn::PackedScene::1424406303::
+main.gd::GDScript::1425137605::
+main.scn::PackedScene::1425137517::
 mustang.png::ImageTexture::1418090732::
+some64x64.png::ImageTexture::1424623164::
