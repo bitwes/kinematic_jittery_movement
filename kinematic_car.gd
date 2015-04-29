@@ -10,6 +10,6 @@ func _fixed_process(delta):
 	
 	move(Vector2(speed * delta, 0))
 	
-	if(get_pos().x > 1000):
-
+	if(get_pos().x > 2000):
+		self.queue_free()
 
